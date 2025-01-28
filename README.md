@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# :floppy_disk: IA com ou sem IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um repositório com o histórico resumido da evolução da Inteligência Artificial para servir de apoio ao entendimento desta área tão crescente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Copilot, Leonardo AI, Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criando, reformulando, refinando e realimentando prompts para orientar o conteúdo desejado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+** Os grandes três momentos da evolução da IA Generativa
+
+1. Origem e fundamentos da IA Generativa
+A IA generativa nasceu com avanços no aprendizado de máquina e redes neurais na década de 1950-60, mas ganhou força com a invenção das Redes Neurais Artificiais profundas (Deep Learning) em 2010. Ferramentas como GANs (Redes Adversárias Generativas) abriram caminho para criar imagens, textos e sons novos, simulando criatividade humana.
+
+![image](https://github.com/user-attachments/assets/4fb77a76-b717-4654-b9c5-469f8bc2e919)
+
+2. Evolução com os modelos de linguagem
+A partir de 2018, modelos como GPT (Transformers), desenvolvidos pela OpenAI, revolucionaram a IA generativa, permitindo que máquinas compreendessem e gerassem textos complexos. Esses modelos passaram a ser usados em educação, saúde, criatividade, entre outras áreas.
+
+![image](https://github.com/user-attachments/assets/a6e11cbb-0cf5-4a48-8dc8-a1d59d8a2ca0)
+
+3. Popularização e impacto atual
+Hoje, ferramentas como ChatGPT e DALL·E tornaram a IA generativa acessível, gerando conteúdos para ensino, pesquisa e criação artística. A tecnologia está transformando a forma como produzimos conhecimento, criando novos desafios éticos e pedagógicos, mas também oportunidades imensas para inovação interdisciplinar.
+
+![image](https://github.com/user-attachments/assets/26259e86-8a2f-4c0e-83eb-8a0762fbd57d)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
