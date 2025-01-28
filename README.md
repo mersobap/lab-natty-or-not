@@ -1,4 +1,4 @@
-# :floppy_disk: IA com ou sem IA
+# :floppy_disk: Evolução sucinta da IA Generativa
 
 ## 📒 Descrição
 Criar um repositório com o histórico resumido da evolução da Inteligência Artificial para servir de apoio ao entendimento desta área tão crescente.
@@ -10,7 +10,8 @@ ChatGPT, Copilot, Leonardo AI, Gemini
 Criando, reformulando, refinando e realimentando prompts para orientar o conteúdo desejado.
 
 ## 🚀 Resultados
-** Os grandes três momentos da evolução da IA Generativa
+
+### Os grandes três momentos da evolução da IA Generativa
 
 1. Origem e fundamentos da IA Generativa
 A IA generativa nasceu com avanços no aprendizado de máquina e redes neurais na década de 1950-60, mas ganhou força com a invenção das Redes Neurais Artificiais profundas (Deep Learning) em 2010. Ferramentas como GANs (Redes Adversárias Generativas) abriram caminho para criar imagens, textos e sons novos, simulando criatividade humana.
@@ -28,4 +29,5 @@ Hoje, ferramentas como ChatGPT e DALL·E tornaram a IA generativa acessível, ge
 ![image](https://github.com/user-attachments/assets/26259e86-8a2f-4c0e-83eb-8a0762fbd57d)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+O uso da IA Generativa deve ser encarado como um forte aliado para o desenvolvimento da produtividade, mas, como qualquer tecnologia, é preciso saber usá-la estratégicamente para que lhe auxilie na realização de tarefas, mas permita o crescimento intelectual com o aprendizado pessoal e o fortalecimento de competências. Ficar na dependência pessoal e profissional pode ser um efeito nocivo que todos devemos evitar. 
