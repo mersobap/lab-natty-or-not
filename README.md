@@ -23,7 +23,7 @@ Criando, reformulando, refinando e realimentando prompts para orientar o conteú
 
 2. Evolução com os modelos de linguagem
 
-A partir de 2018, modelos como GPT (Transformers), desenvolvidos pela OpenAI, revolucionaram a IA generativa, permitindo que máquinas compreendessem e gerassem textos complexos. Esses modelos passaram a ser usados em educação, saúde, criatividade, entre outras áreas.
+[1] A partir de 2018, modelos como GPT (Transformers), desenvolvidos pela OpenAI, revolucionaram a IA generativa, permitindo que máquinas compreendessem e gerassem textos complexos. Esses modelos passaram a ser usados em educação, saúde, criatividade, entre outras áreas.
 
 ![image](https://github.com/user-attachments/assets/a6e11cbb-0cf5-4a48-8dc8-a1d59d8a2ca0)
 
