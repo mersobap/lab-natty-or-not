@@ -13,7 +13,7 @@ Criando, reformulando, refinando e realimentando prompts para orientar o conteú
 
 ### Os grandes três momentos da evolução da IA Generativa
 
-1. Origem e fundamentos da IA Generativa
+# 1. Origem e fundamentos da IA Generativa
 
 [1] A IA generativa nasceu com avanços no aprendizado de máquina e redes neurais na década de 1950-60, mas ganhou força com a invenção das Redes Neurais Artificiais profundas (Deep Learning) em 2010. Ferramentas como GANs (Redes Adversárias Generativas) abriram caminho para criar imagens, textos e sons novos, simulando criatividade humana.
 
@@ -21,7 +21,7 @@ Criando, reformulando, refinando e realimentando prompts para orientar o conteú
 
 [2] A inteligência artificial generativa começou a ganhar forma nos anos 1950 e 1960, com as primeiras pesquisas em redes neurais artificiais. Os modelos iniciais, como o Perceptron, pavimentaram o caminho para os desenvolvimentos subsequentes. As técnicas básicas de machine learning foram desenvolvidas nessa época, fornecendo os alicerces para métodos mais avançados.
 
-2. Evolução com os modelos de linguagem
+# 2. Evolução com os modelos de linguagem
 
 [1] A partir de 2018, modelos como GPT (Transformers), desenvolvidos pela OpenAI, revolucionaram a IA generativa, permitindo que máquinas compreendessem e gerassem textos complexos. Esses modelos passaram a ser usados em educação, saúde, criatividade, entre outras áreas.
 
@@ -29,7 +29,7 @@ Criando, reformulando, refinando e realimentando prompts para orientar o conteú
 
 [2] Nos anos 1980 e 1990, houve um ressurgimento no interesse por redes neurais, culminando com o desenvolvimento do backpropagation. No entanto, foi só na última década, com o aumento do poder computacional e a disponibilidade de grandes volumes de dados, que vimos um grande avanço no deep learning. Modelos como as Redes Neurais Convolucionais (CNNs) e Redes Neurais Recorrentes (RNNs) abriram novos caminhos, especialmente em áreas como reconhecimento de imagens e processamento de linguagem natural.
 
-3. Popularização e impacto atual
+# 3. Popularização e impacto atual
 
 [1] Hoje, ferramentas como ChatGPT e DALL·E tornaram a IA generativa acessível, gerando conteúdos para ensino, pesquisa e criação artística. A tecnologia está transformando a forma como produzimos conhecimento, criando novos desafios éticos e pedagógicos, mas também oportunidades imensas para inovação interdisciplinar.
 
