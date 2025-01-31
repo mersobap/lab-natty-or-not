@@ -37,7 +37,7 @@ Criando, reformulando, refinando e realimentando prompts para orientar o conteú
 
 [2] A partir dos anos 2010, assistimos ao surgimento de modelos generativos mais sofisticados, como os Generative Adversarial Networks (GANs) e os modelos baseados em Transformer, incluindo o famoso GPT (Generative Pre-trained Transformer). Esses modelos permitiram a criação de conteúdos como textos, imagens e até músicas, que são quase indistinguíveis dos produzidos por humanos.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 
 O uso da IA Generativa deve ser encarado como um forte aliado para o desenvolvimento da produtividade, mas, como qualquer tecnologia, é preciso saber usá-la estratégicamente para que lhe auxilie na realização de tarefas, mas permita o crescimento intelectual com o aprendizado pessoal e o fortalecimento de competências. Ficar na dependência pessoal e profissional pode ser um efeito nocivo que todos devemos evitar. 
 
